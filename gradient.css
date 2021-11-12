@@ -1,0 +1,58 @@
+.gradient1 {
+    height: 100px;
+   
+    background-image:
+      linear-gradient(
+       
+        white, green
+      );
+  }
+
+  .gradient2{
+    
+        height: 100px;
+      
+        background-image:
+          linear-gradient(
+            to  bottom right, 
+           white,green
+          );
+   
+  }
+ 
+  .gradient3{
+      height: 100px;
+      background-image:
+      linear-gradient(
+          70deg,white,green);
+  
+   
+  }
+  
+  .gradient4{
+    height: 100px;
+    
+    background-image:
+      radial-gradient(
+        yellow,
+        white
+      );
+  }
+  .gradient5{
+    height: 100px;
+    background-image:
+    linear-gradient(
+    
+        white,red,blue,green);
+
+ 
+}
+.gradient6{
+    height: 100px;
+    background-image:
+    linear-gradient(
+    
+       rgba(0,255,0,0.2) ,rgba(0,255,0,0.2)
+
+    )
+ 
